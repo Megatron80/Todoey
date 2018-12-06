@@ -10,7 +10,7 @@ import UIKit
 
 class TodoListViewController: UITableViewController {
 
-    var itemArray = ["Get Switch","Get Electric Skateboard","Get Tesla Model X"]
+    var itemArray = [Item]()
     
     let defaults = UserDefaults.standard
     
@@ -19,9 +19,15 @@ class TodoListViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        
+        let newItem = Item()
+        newItem.title = "Get Switch"
+        itemArray.append(newItem)
         
-        if let items = defaults.array(forKey: "ToDoListArray") as? [String] {
-            
+        
+        
+        
+        if let items = defaults.array(forKey: "ToDoListArray") as? [Item] {
+
             itemArray = items
         }
         
@@ -40,7 +46,9 @@ class TodoListViewController: UITableViewController {
         
         let cell = tableView.dequeueReusableCell(withIdentifier: "ToDoItemCell", for: indexPath)
     
-        cell.textLabel?.text = itemArray[indexPath.row]
+        
+        
+        cell.textLabel?.text = itemArray[indexPath.row].title
         
         return cell
         
@@ -81,7 +89,10 @@ class TodoListViewController: UITableViewController {
         let action = UIAlertAction(title: "Add Item", style: .default) { (action) in
             // what will happen when the user clicks the add item button in our UIAlert
             
-            self.itemArray.append(textField.text!)
+            let newItem = Item()
+            newItem.title = textField.text!
+            
+            self.itemArray.append(newItem)
             
             self.defaults.set(self.itemArray, forKey: "ToDoListArray")
             
