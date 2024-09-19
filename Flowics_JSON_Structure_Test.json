@@ -1,0 +1,6118 @@
+{
+    "tickerfeed": {
+      "key": {
+        "version": "2.4"
+      },
+      "playlist": [
+        {
+            "key": {
+          "type": "flipping_carousel",
+          "name": "ALL",
+          "target": "carousel"
+            },
+            "defaults": [
+          {
+            "outputchannels": [
+              {
+                "active": [
+                  "Main"
+                ]
+              }
+            ],
+            "template": [
+              "ALL_LOTTERY_NUMBERS"
+            ]
+          }
+        ],
+        "element": [
+          {
+            "next": "ALL_LOTTERY_POWERBALL",
+
+            "template": "ALL_LOTTERY_NUMBERS",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+                {
+                    "value": "2",
+                    "key": {
+                      "name": "001"
+                    }
+                  },
+                  {
+                    "value": "Lotto",
+                    "key": {
+                      "name": "01"
+                    }
+                  },
+                  {
+                    "value": "01-03-15-21-29-33",
+                    "key": {
+                      "name": "02"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "03"
+                    }
+                  },
+                  {
+                    "value": "09/11/24",
+                    "key": {
+                      "name": "04"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "05"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "06"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "13"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "14"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "15"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "16"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "17"
+                    }
+                  },
+                  {
+                    "key": {
+                      "name": "18"
+                    }
+                  }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "Lotto Plus",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "01-02-10-15-19-36",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "09/11/24",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "Triple Twist",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "10-27-32-35-36-41",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "09/11/24",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_WX_DAY",
+
+            "template": "ALL_LOTTERY_POWERBALL",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "POWERBALL",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "10",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "12",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "55",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "65",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "67",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "03",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "V5Gray",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "POWERPLAY",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "09/11/24",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_WX_CURRENT",
+
+            "template": "ALL_WX_DAY",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "BANGOR",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "76",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "XFINITYMOBILE",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "76",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "77",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "53",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "BRENT'S TOWN",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "86",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "86",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "87",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "66",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "CENTENNIAL",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "85",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "XFINITYMOBILE",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "85",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "88",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "55",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "CHRISTMAS, MI",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "81",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "54",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MUNISING",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "XFINITYMOBILE",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "81",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "54",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_CRAWL",
+
+            "template": "ALL_WX_CURRENT",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "BANGOR",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "76",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "XFINITYMOBILE",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "76",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "77",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "53",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "BRENT'S TOWN",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "86",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "86",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "87",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "66",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "CENTENNIAL",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "85",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "XFINITYMOBILE",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "85",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "88",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "55",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "PARTLY CLOUDY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "CHRISTMAS, MI",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "81",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "54",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MUNISING",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "XFINITYMOBILE",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "MORNING",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "72",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "FRIDAY",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "SATURDAY",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "HI 79 LOW 56",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "81",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "54",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "SUNNY",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "56",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "20"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_STOCKS",
+
+            "template": "ALL_CRAWL",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": ".com News",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Nebraska Evolving: The perception is that Nebraska's smaller communities are dying. The reality is that many rural Nebraska counties are now growing for one reason. Immigration.",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "TickerSnowbird_Red",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              },
+              {
+                "key": {
+                  "name": "26"
+                }
+              },
+              {
+                "key": {
+                  "name": "27"
+                }
+              },
+              {
+                "key": {
+                  "name": "28"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": ".com News",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Third Norfolk Police Division employee placed on administrative leave",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "TickerSnowbird_White",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              },
+              {
+                "key": {
+                  "name": "26"
+                }
+              },
+              {
+                "key": {
+                  "name": "27"
+                }
+              },
+              {
+                "key": {
+                  "name": "28"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": ".com News",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Schools in the Tri-Cities respond to threat rumors",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "TickerSnowbird_Red",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "2",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              },
+              {
+                "key": {
+                  "name": "26"
+                }
+              },
+              {
+                "key": {
+                  "name": "27"
+                }
+              },
+              {
+                "key": {
+                  "name": "28"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": ".com News",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Watch or listen to the N REPORT Husker Show",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "TickerSnowbird_White",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              },
+              {
+                "key": {
+                  "name": "26"
+                }
+              },
+              {
+                "key": {
+                  "name": "27"
+                }
+              },
+              {
+                "key": {
+                  "name": "28"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": ".com News",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Nebraska natives share their 9/11 experiences at Tabitha event",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "TickerSnowbird_Red",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "4",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              },
+              {
+                "key": {
+                  "name": "26"
+                }
+              },
+              {
+                "key": {
+                  "name": "27"
+                }
+              },
+              {
+                "key": {
+                  "name": "28"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_HURRICANE",
+
+            "template": "ALL_STOCKS",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "New York Stock Exchange",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": 18969.70,
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": 103.07,
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "uscell2",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "Dow Jones",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": 41071.71,
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": 210.00,
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "uscell2",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "S&P",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": 5598.31,
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": 44.18,
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "uscell2",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "Apple Inc",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": 223.15,
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": 0.49,
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "sponsor",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "Walmart",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": 79.55,
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": 0.71,
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "uscell2",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_CLOSING",
+
+            "template": "ALL_HURRICANE",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "Storm ",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "DIRECTION",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "N AT 59 MPH",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "WIND SPEED",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "4651 MPH",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "DISTANCE",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "46",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "5",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "TROPICAL STORM",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "key": {
+                  "name": "15"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_SPORTS",
+
+            "template": "ALL_CLOSING",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "none",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "School",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Little Lambs Preschool TEST",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "NE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "CLOSINGS MACHINE",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "none",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "School",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Sentry Academy TEST",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "NE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "CLOSINGS MACHINE",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "none",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "School",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "University of Learning Things TEST",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "NE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "CLOSINGS MACHINE",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ALL_LOTTERY_NUMBERS",
+
+            "template": "ALL_SPORTS",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Miami Marlins",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Pittsburgh Pirates",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "3",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN0C3KFE3N67S78.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN4R36KMXGNNSCP.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Cleveland Guardians",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "6",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Chicago White Sox",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "4",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN04DHRH46GCC5F.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN6WJK31H3QJAB0.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "New York Mets",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "6",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Toronto Blue Jays",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "2",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN9R349YRKRZJQ0.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN2VZP6WF8MVB56.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Texas Rangers",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "4",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Arizona Diamondbacks",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "14",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GNF449VP0S2XJ11.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GNE14NCV2AHBNDG.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Colorado Rockies",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "4",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Detroit Tigers",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "7",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN12QAXTBXWQ557.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GNB40Z502SCB557.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "BREAKNEWS_TEXT",
+
+            "template": "BREAKNEWS_TEXT",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "ACTION NEWS ALERT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "More Breaking news testing data",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "uscell2",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "ACTION NEWS ALERT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "This is test breaking news text for testing",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "V5Gray",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "ACTION NEWS ALERT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "This is another test for Breaking News",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "KrisTest2",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "2",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "CLOSING",
+
+            "template": "CLOSING",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "School",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Little Lambs Preschool TEST",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "NE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "CLOSINGS MACHINE",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "School",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Sentry Academy TEST",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "NE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "CLOSINGS MACHINE",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "School",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "University of Learning Things TEST",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "NE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "CLOSINGS MACHINE",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "ELECION",
+
+            "template": "ELECTION",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "DeKalb,GA",
+                "key": {
+                  "name": "99"
+                }
+              },
+              {
+                "value": "DeKalb County CEO",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Lorraine Cochran-Johnson",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "25,608",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "60%",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "28"
+                }
+              },
+              {
+                "value": "Larry Johnson",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "17,104",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "40%",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "29"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "VA",
+                "key": {
+                  "name": "99"
+                }
+              },
+              {
+                "value": "Lynchburg City Council - Ward 4 - Republican",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Reporting 5 of 5",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Chris Faraldi",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "R",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "1,049",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "51%",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "28"
+                }
+              },
+              {
+                "value": "Peter Alexander",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "R",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "1,010",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "49%",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "29"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "Roanoke,VA",
+                "key": {
+                  "name": "99"
+                }
+              },
+              {
+                "value": "Roanoke County Board of Supervisors - Republican - Vinton District",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Reporting 7 of 7",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Tammy Shepherd",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "R",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "1,074",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "50%",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "28"
+                }
+              },
+              {
+                "value": "Tim Greenway",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "R",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "1,054",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "50%",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "29"
+                }
+              }
+            ],
+            "field": [
+              {
+                "key": {
+                  "name": "99"
+                }
+              },
+              {
+                "value": "Director of Sea Turtle Extraction and Relocation",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "John Smith",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "O",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "0%",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "28"
+                }
+              },
+              {
+                "value": "Jane Doe",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "O",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0%",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "29"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "NJ",
+                "key": {
+                  "name": "99"
+                }
+              },
+              {
+                "value": "U.S. House - District 10 Unexpired Term - Dem",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Votes in: Estimated 99%",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "LaMonica McIver",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "12,507",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "47%",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "1",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "28"
+                }
+              },
+              {
+                "value": "Derek Armstead",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "3,596",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "14%",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "29"
+                }
+              },
+              {
+                "value": "Jerry Walker",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "2,568",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "10%",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "30"
+                }
+              },
+              {
+                "value": "Darryl Godfrey",
+                "key": {
+                  "name": "18"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "19"
+                }
+              },
+              {
+                "value": "1,815",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "value": "7%",
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "31"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "GA",
+                "key": {
+                  "name": "99"
+                }
+              },
+              {
+                "value": "Test Race 1",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "Donald Trump",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "R",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "0%",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "28"
+                }
+              },
+              {
+                "value": "Kamala Harris",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "D",
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0%",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "29"
+                }
+              },
+              {
+                "value": "Candidate Three",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "I",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "0%",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "30"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "HURRICANE",
+
+            "template": "HURRICANE",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "Storm ",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "DIRECTION",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "N AT 59 MPH",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "WIND SPEED",
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": "4651 MPH",
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "value": "DISTANCE",
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": 46,
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 5,
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": "TROPICAL STORM",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "key": {
+                  "name": "15"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "PROGRAMCRAWL_TEXT",
+
+            "template": "PROGRAMCRAWL_TEXT",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SEVEREWX_TEXT",
+
+            "template": "SEVEREWX_TEXT",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "FLOOD WATCH",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "ALABAMA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "EXP. SEP 13 - 7:00 PM CT",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SHELBY, AL; CHILTON, AL",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "FLOOD WATCH",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "ALABAMA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "EXP. SEP 14 - 7:00 AM CT",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "LAWRENCE, AL; DEKALB, AL",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "SPECIAL WEATHER STATEMENT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "ALASKA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "UNTIL FURTHER NOTICE",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "NORTHWEST ARCTIC BOROUGH, AK; NOME CENSUS AREA, AK",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "SPECIAL WEATHER STATEMENT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "FLORIDA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "UNTIL FURTHER NOTICE",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "BROWARD, FL",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "FLOOD WATCH",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "GEORGIA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "EXP. SEP 13 - 7:00 PM CT",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "QUITMAN, GA; CLAY, GA; RANDOLPH, GA",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SEVERE_WX",
+
+            "template": "SEVERE_WX",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "FLOOD WATCH",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "ALABAMA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "EXP. SEP 13 - 7:00 PM CT",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "SHELBY, AL; CHILTON, AL",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "FLOOD WATCH",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "ALABAMA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "EXP. SEP 14 - 7:00 AM CT",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "LAWRENCE, AL; DEKALB, AL",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "SPECIAL WEATHER STATEMENT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "ALASKA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "UNTIL FURTHER NOTICE",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "NORTHWEST ARCTIC BOROUGH, AK; NOME CENSUS AREA, AK",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "SPECIAL WEATHER STATEMENT",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "FLORIDA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "UNTIL FURTHER NOTICE",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "BROWARD, FL",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "2",
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "FLOOD WATCH",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "GEORGIA",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": "EXP. SEP 13 - 7:00 PM CT",
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "value": "QUITMAN, GA; CLAY, GA; RANDOLPH, GA",
+                "key": {
+                  "name": "20"
+                }
+              },
+              {
+                "key": {
+                  "name": "21"
+                }
+              },
+              {
+                "key": {
+                  "name": "22"
+                }
+              },
+              {
+                "key": {
+                  "name": "23"
+                }
+              },
+              {
+                "key": {
+                  "name": "24"
+                }
+              },
+              {
+                "key": {
+                  "name": "25"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SPORTS_CRAWL",
+
+            "template": "SPORTS_CRAWL",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SPORTS",
+
+            "template": "SPORTS",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Miami Marlins",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Pittsburgh Pirates",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 3,
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": "0",
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "uscell2",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN0C3KFE3N67S78.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN4R36KMXGNNSCP.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Cleveland Guardians",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 6,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Chicago White Sox",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 4,
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "V5Gray",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN04DHRH46GCC5F.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN6WJK31H3QJAB0.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "New York Mets",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 6,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Toronto Blue Jays",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "KrisTest2",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN9R349YRKRZJQ0.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN2VZP6WF8MVB56.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Colorado Rockies",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 4,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Detroit Tigers",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 7,
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "KrisTest4",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN12QAXTBXWQ557.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GNB40Z502SCB557.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": 2,
+                "key": {
+                  "name": "001"
+                }
+              },
+              {
+                "value": "MLB",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "Tampa Bay Rays",
+                "key": {
+                  "name": "02"
+                }
+              },
+              {
+                "value": 2,
+                "key": {
+                  "name": "03"
+                }
+              },
+              {
+                "key": {
+                  "name": "04"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "05"
+                }
+              },
+              {
+                "key": {
+                  "name": "06"
+                }
+              },
+              {
+                "value": "Philadelphia Phillies",
+                "key": {
+                  "name": "07"
+                }
+              },
+              {
+                "value": 3,
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "key": {
+                  "name": "09"
+                }
+              },
+              {
+                "value": 1,
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "value": 0,
+                "key": {
+                  "name": "11"
+                }
+              },
+              {
+                "value": "FINAL",
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "value": "KrisTest5",
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN0WA1211D61593.png",
+                "key": {
+                  "name": "14"
+                }
+              },
+              {
+                "value": "http://s3.amazonaws.com/grayfilestore-gdm/proSportsLogos/GN3XY02ARYD09XP.png",
+                "key": {
+                  "name": "15"
+                }
+              },
+              {
+                "value": "09-11-2024",
+                "key": {
+                  "name": "16"
+                }
+              },
+              {
+                "key": {
+                  "name": "17"
+                }
+              },
+              {
+                "key": {
+                  "name": "18"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SUBHEADLINE_CLOSINGS",
+
+            "template": "SUBHEADLINE_CLOSINGS",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+                {
+                  "value": "Little Lambs Preschool TEST",
+                  "key": {
+                    "name": "01"
+                  }
+                },
+                {
+                  "value": "SUBHEADLINE",
+                  "key": {
+                    "name": "08"
+                  }
+                },
+                {
+                  "value": "Closed Thursday",
+                  "key": {
+                    "name": "10"
+                  }
+                },
+                {
+                  "key": {
+                    "name": "12"
+                  }
+                },
+                {
+                  "key": {
+                    "name": "13"
+                  }
+                },
+                {
+                  "key": {
+                    "name": "14"
+                  }
+                }
+              ],
+              "field": [
+              {
+                "value": "Sentry Academy TEST",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "SUBHEADLINE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ],
+            "field": [
+              {
+                "value": "University of Learning Things TEST",
+                "key": {
+                  "name": "01"
+                }
+              },
+              {
+                "value": "SUBHEADLINE",
+                "key": {
+                  "name": "08"
+                }
+              },
+              {
+                "value": "Closed Thursday",
+                "key": {
+                  "name": "10"
+                }
+              },
+              {
+                "key": {
+                  "name": "12"
+                }
+              },
+              {
+                "key": {
+                  "name": "13"
+                }
+              },
+              {
+                "key": {
+                  "name": "14"
+                }
+              }
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SUBHEADLINE_BREAKING",
+
+            "template": "SUBHEADLINE_BREAKING",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "SUBHEADLINE_SEVERE",
+
+            "template": "SUBHEADLINE_SEVERE",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+
+            ]
+         }
+        ],
+        "element": [
+          {
+            "next": "TIMETEMP",
+
+            "template": "TIMETEMP",
+
+            "gui-color": [
+              "#00C3FF"
+            ],
+            "duration": [
+              "8"
+            ],
+            "ttl": [
+              {
+                "value": "1000",
+                "key": {
+                  "action": "remove"
+                }
+              }
+            ],
+            "field": [
+                {
+                    "value": 71,
+                    "key": {
+                      "name": "01"
+                    }
+                  },
+                  {
+                    "value": "Bangor",
+                    "key": {
+                      "name": "02"
+                    }
+                  }
+            ],
+            "field": [
+                {
+                    "value": 71,
+                    "key": {
+                      "name": "01"
+                    }
+                  },
+                  {
+                    "value": "Bangor",
+                    "key": {
+                      "name": "02"
+                    }
+                  }
+            ]
+         }
+        ]
+        }
+    ]
+    }
+}
